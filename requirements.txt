@@ -1,6 +1,8 @@
-fastapi 
+fastapi
 gunicorn
-uvicorn 
+uvicorn
 jinja2
-pytest 
-requests 
+pytest
+requests
+pre-commit
+httpx
