@@ -6,3 +6,5 @@ pytest
 requests
 pre-commit
 httpx
+pytesseract
+pydantic-settings
