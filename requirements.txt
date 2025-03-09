@@ -8,3 +8,4 @@ pre-commit
 httpx
 pytesseract
 pydantic-settings
+python-multipart
